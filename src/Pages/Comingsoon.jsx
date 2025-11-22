@@ -11,7 +11,7 @@ function Comingsoon() {
             <div className="container">
                 <div className="coming-soon-inner w-lg-80 m-auto position-relative">
                     <div className="logo">
-                        <img src="assets/images/logo/1.png" alt="Eventen logo" className="w-25 mb-6"/>
+                        <img src="assets/images/logo/1.png" alt="BNI logo" className="w-25 mb-6"/>
                     </div>
                     <div className="coming-soon-title">
                         <h1 className="text-white mb-6">Something Awesome is coming</h1>
@@ -35,7 +35,7 @@ function Comingsoon() {
                         </ul>
                     </div>
                     <div className="copyright pt-4">
-                        <p className="text-white">Copyright {new Date().getFullYear()} Eventen. All Rights Reserved Copyright</p>
+                        <p className="text-white">Copyright {new Date().getFullYear()} BNI. All Rights Reserved Copyright</p>
                     </div>
                 </div>  
             </div>  

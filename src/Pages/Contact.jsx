@@ -31,7 +31,7 @@ function Contact() {
                     <div className="ticket-info pb-5">
                     <h5 className="text-white pb-2">Ticket INFO:</h5>
                     <p className="m-0">Booking: (+62) 1919-2020</p>
-                    <p className="m-0">Email: eventen@mail.com</p>
+                    <p className="m-0">Email: BNI@mail.com</p>
                     </div>
                     <div className="direction-link">
                     <a>Get Directions</a>

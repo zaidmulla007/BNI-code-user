@@ -55,7 +55,7 @@ const Header = () => {
             <div className="row w-100 align-items-center">
               <div className="col-lg-2 col-md-6">
                 <div className="navbar-brand m-0">
-                  <img src="assets/images/logo/1.png" alt="Logo" className="w-100" />
+                  <img src="assets/images/BNI_logo.png" alt="Logo" className="w-100" />
                 </div>
               </div>
 

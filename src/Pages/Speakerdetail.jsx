@@ -91,7 +91,7 @@ function Speakerdetail() {
                                 </div>
                                 <div className="contact-detail">
                                 <span className="fw-semibold black text-uppercase my-1 lh-base">Email Address</span>
-                                <a><p className="m-0">gerardo@eventen.com</p></a>
+                                <a><p className="m-0">gerardo@BNI.com</p></a>
                                 </div>  
                             </div>
                             <div className="contact-info-list d-flex align-items-center pb-4 mb-4 lh-base border-dashed-bottom-1">

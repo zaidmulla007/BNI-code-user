@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-* Project:        Eventen - Event Conference HTML Templates
+* Project:        BNI - Event Conference HTML Templates
 * Author:         HtmlDesign Templates
 * URL:            https://themeforest.net/user/htmldesigntemplates/portfolio
 * Created:        06/26/2024
@@ -369,6 +369,24 @@
   line-height:70px;
   font-size: 35px;
   transition: all .5s ease-in-out;
+}
+.feature-box-icon img {
+    width: 70px;             /* same as .feature-box i */
+    height: 70px;
+    line-height: 70px;       /* vertical centering if needed */
+    font-size: 35px;         /* optional for overlay text/icons */
+    object-fit: cover;       /* ensures image covers circle without distortion */
+    border-radius: 50%;      /* makes it a perfect circle */
+    transition: all 0.5s ease-in-out;
+}
+
+.feature-box {
+    padding: 28px 24px;      /* adjust padding as needed */
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    gap: 16px;               /* space between icon and content */
 }
 
 .feature-lists a:hover i{

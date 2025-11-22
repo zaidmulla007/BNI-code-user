@@ -1,6 +1,6 @@
 
 /*------------------------------------------------------------------
-* Project:        Eventen - Event Conference HTML Templates
+* Project:        BNI - Event Conference HTML Templates
 * Author:         HtmlDesignTemplates
 * URL:            https://themeforest.net/user/htmldesigntemplates
 * Created:        05/10/2024

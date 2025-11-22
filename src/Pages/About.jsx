@@ -18,7 +18,7 @@ function About() {
                     <div className="overview-left text-center text-lg-start">
                     <div className="overview-title pb-4">
                         <p className="mb-1 pink">OVERVIEW</p>
-                        <h2 className="mb-2">GET THE LATEST INFO ABOUT <span className="pink">EVENTEN</span></h2>
+                        <h2 className="mb-2">GET THE LATEST INFO ABOUT <span className="pink">BNI</span></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                         et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                         aliquip ex ea commodo consequat.</p>

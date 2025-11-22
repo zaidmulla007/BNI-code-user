@@ -84,7 +84,7 @@ function Faq() {
                             <div className="popular-ques-left me-4 m-sm-0">
                                 <div className="section-title pb-4 text-center text-lg-start">
                                     <p className="mb-1 pink">POPULAR QUESTIONS</p>
-                                    <h2 className="mb-">Eventen's <span className="pink">FAQ!!</span></h2>
+                                    <h2 className="mb-">BNI's <span className="pink">FAQ!!</span></h2>
                                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                 </div>
                                 <div className="faq-accordion p-4 mb-6 bg-white rounded">

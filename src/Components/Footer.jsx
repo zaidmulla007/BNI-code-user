@@ -63,7 +63,7 @@ function Footer() {
                 </div>
             </div>
             <div className="copyright pb-6 pt-1">
-                <small>Copyright {new Date().getFullYear()} Eventen. All Rights Reserved Copyright</small>
+                <small>Copyright {new Date().getFullYear()} BNI. All Rights Reserved Copyright</small>
             </div>
             </div>
         </footer>
